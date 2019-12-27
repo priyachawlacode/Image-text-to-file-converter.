@@ -1,0 +1,2 @@
+# Image-text-to-file-converter.
+It will be a python,Machine learning project which will extract text from images and convert it to user choosen file format. The file format can be any of the word, presentation, pdf. So, just think when you have a heavy work of typing or making a file by already prepared note or want to copy paste from some other's witten work. You dont have to worry just click an image, give it as input and you will get your file prepared. All this is because of Image text to file converter. It will surely make your typing work easier.
