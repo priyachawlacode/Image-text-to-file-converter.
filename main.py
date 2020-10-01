@@ -37,6 +37,7 @@ f=open("text.txt","a")
 f.write(p)
 f.close()
 #print(p)
+#select choice
 ch=int(input("enter your choice\n 1. conversion to word \n 2. conversion to pdf \n 3. conversion to ppt"))
 
 
